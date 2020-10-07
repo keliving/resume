@@ -1,9 +1,13 @@
+<!--styles for my resume-->
+
+<!--default styles for body-->
 body {
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
 }
 
+<!--banner name at top-->
 h1 {
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 3em;
@@ -12,6 +16,7 @@ h1 {
   text-align: center;
 }
 
+<!--section headers-->
 h2{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1.5em;
@@ -22,6 +27,7 @@ h2{
   font-weight: 400;
 }
 
+<!--job titles-->
 h3{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1.5em;
@@ -29,6 +35,7 @@ h3{
   font-weight: 600;
 }
 
+<!--job organizations-->
 h4{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1.5em;
@@ -37,6 +44,7 @@ h4{
 
 }
 
+<!--job dates-->
 h5{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
@@ -45,20 +53,28 @@ h5{
   font-style: italic;
 }
 
+<!--general text-->
 p{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
 }
 
+<!--list items-->
 li{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
 }
 
+<!--page title-->
 head{
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
+}
+
+<!--lists-->
+ul{
+  font-size: 1em;
 }
