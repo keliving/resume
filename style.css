@@ -52,12 +52,13 @@ body {
 }
 
 /*job dates*/
-h5{
+.date{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
   font-weight: 400;
   font-style: italic;
+  margin-top: 2px;
 }
 
 /*general text*/
