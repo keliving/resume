@@ -62,10 +62,11 @@ body {
 }
 
 /*general text*/
-p{
+.description{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
+  margin: 10px 0px;
 }
 
 /*list items*/
