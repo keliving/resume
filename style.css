@@ -8,12 +8,17 @@ body {
 }
 
 /*banner name at top*/
-h1 {
+#name {
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
   text-align: center;
+  border-bottom: 1px;
+  border-color: #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto; 
 }
 
 /*section headers*/
