@@ -44,9 +44,9 @@ body {
 }
 
 /*job organizations*/
-h4{
+.organization{
   font-family: Open-Sans, Arial, sans-serif;
-  font-size: 1.5em;
+  font-size: 1.25em;
   color: #444;
   font-weight: 400;
 }
