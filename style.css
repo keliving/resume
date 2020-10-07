@@ -81,7 +81,13 @@ body {
   display: inline;
 }
 
+/*adding margins to education*/
 #degrees{
+  margin-top: 5px;
+}
+
+/*changing margins on skills*/
+#do{
   margin-top: 5px;
 }
 
