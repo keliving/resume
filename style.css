@@ -99,10 +99,13 @@ li{
 }
 
 /*page title*/
-head{
+#title{
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
+  font-weight: 600px;
+  text-align: center;
+  margin-top: 20px;
 }
 
 /*lists*/
