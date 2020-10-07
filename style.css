@@ -1,13 +1,13 @@
-<!--styles for my resume-->
+/*styles for my resume*/
 
-<!--default styles for body-->
+/*default styles for body*/
 body {
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
 }
 
-<!--banner name at top-->
+/*banner name at top*/
 h1 {
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 3em;
@@ -16,7 +16,7 @@ h1 {
   text-align: center;
 }
 
-<!--section headers-->
+/*section headers*/
 h2{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1.5em;
@@ -27,7 +27,7 @@ h2{
   font-weight: 400;
 }
 
-<!--job titles-->
+/*job titles*/
 h3{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1.5em;
@@ -35,7 +35,7 @@ h3{
   font-weight: 600;
 }
 
-<!--job organizations-->
+/*job organizations*/
 h4{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1.5em;
@@ -43,7 +43,7 @@ h4{
   font-weight: 400;
 }
 
-<!--job dates-->
+/*job dates*/
 h5{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
@@ -52,28 +52,28 @@ h5{
   font-style: italic;
 }
 
-<!--general text-->
+/*general text*/
 p{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
 }
 
-<!--list items-->
+/*list items*/
 li{
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
   color: #444;
 }
 
-<!--page title-->
+/*page title*/
 head{
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
 }
 
-<!--lists-->
+/*lists*/
 ul{
   font-size: 1em;
 }
