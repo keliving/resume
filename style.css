@@ -1,5 +1,47 @@
 body {
   font-family: Open-Sans, Arial, sans-serif;
   font-size: 1em;
+  color: #444;
+}
+
+h1 {
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
+
+h2{
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
+
+h3{
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
+
+h4{
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
+
+h5{
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
+
+p{
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
+
+li{
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1em;
   color: #444; 
 }
