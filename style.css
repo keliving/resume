@@ -35,6 +35,7 @@ body {
   font-size: 1.5em;
   color: #444;
   font-weight: 600;
+  margin left: 10px;
 }
 
 /*job organizations*/
@@ -43,6 +44,7 @@ body {
   font-size: 1.25em;
   color: #444;
   font-weight: 400;
+  margin-left: 10px;
 }
 
 /*job dates*/
@@ -53,6 +55,7 @@ body {
   font-weight: 400;
   font-style: italic;
   margin-top: 2px;
+  margin-left: 10px;
 }
 
 /*general text*/
