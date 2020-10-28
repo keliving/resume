@@ -142,5 +142,9 @@ footer{
 
 .btn{
   background-color: #594636;
+  margin: auto;
+  display: flex;
   justify-content: center;
+  top: 50%;
+  left: 50%;
 }
