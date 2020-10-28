@@ -119,6 +119,7 @@ ul{
 .icon{
   size: 30px;
   max-width: 10%;
+  padding-right: 10px;
 }
 
 .ed-icon{
