@@ -148,6 +148,7 @@ footer{
   top: 50%;
   left: 50%;
   border: black;
+  -webkit-appearance: none;
 }
 
 .btn:hover{
