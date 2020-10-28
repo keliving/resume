@@ -125,4 +125,9 @@ ul{
   max-width: 5%;
   size: 10px;
   padding: 5px;
+  margin-left: auto;
+}
+
+.ed{
+  list-style-type: none;
 }
