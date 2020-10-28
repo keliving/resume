@@ -149,3 +149,7 @@ footer{
   left: 50%;
   border: black;
 }
+
+btn: hover{
+  background-color: #B69C87;
+}
