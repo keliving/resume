@@ -71,10 +71,6 @@ body {
   text-align: center;
 }
 
-/*display menu items inline*/
-.menu li{
-  display: inline;
-}
 
 /*adding margins to education*/
 #degrees{
@@ -107,6 +103,7 @@ ul{
   text-align: center;
   font-weight: bold;
   font-style: italic;
+  sixe: 36px;
 }
 
 #banner{
