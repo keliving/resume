@@ -137,7 +137,7 @@ footer{
 }
 
 .attribution{
-  list-style-type: inline;
+  list-style-type: none;
 }
 
 .btn{
@@ -150,6 +150,6 @@ footer{
   border: black;
 }
 
-button:hover{
-  background-color: #B69C87;
+.btn:hover{
+  background: #B69C87;
 }
