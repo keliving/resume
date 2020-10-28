@@ -117,3 +117,10 @@ ul{
   margin: 0 auto;
   margin-bottom: 30px;
 }
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
