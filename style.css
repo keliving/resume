@@ -138,3 +138,7 @@ footer{
   padding: 20px 0px;
   border-top: 5px solid black;
 }
+
+.attribution{
+  list-style-type: none;
+}
