@@ -102,6 +102,9 @@ ul{
   min-width: 300px;
   margin: 0 auto;
   margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
 }
 
 img{
